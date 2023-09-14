@@ -1,14 +1,6 @@
 export type SourceDetails = {
   [key: string]: {
-    feed_urls: {
-      busi?: string;
-      sprt?: string;
-      entm?: string;
-      hlth?: string;
-      tops?: string;
-      wrld?: string;
-      pltc?: string;
-    },
+    feed_urls: Partial<Record<Category, string>>,
     tier_config: {
       interval_value: string;
       slug: string;
@@ -34,12 +26,7 @@ export type NewsItem = {
   title: string;
   description: string;
   "content:encoded"?: string;
-  "media:thumbnail"?: {
-    url?: string;
-  },
-  image?: {
-    url?: string;
-  },
+
   link: string;
   guid?: {
     "#text"?: string;
@@ -57,7 +44,17 @@ export type RSSDetail = {
     };
   };
 }
+// export type Category = "busi" | "sprt" | "hlth" | "oths" | "pltc" | "tops" | "entm" | "wrld";
+export const categoryArray = ["busi", "sprt", "hlth", "oths", "pltc", "tops", "entm", "wrld", "tops"];
+export type Category = typeof categoryArray[number];
 
+
+
+export type State = {
+  [key: string]: {
+    [key in Category]: string;
+  };
+}
 export type Feed = {
   title: string;
   description: string;
@@ -72,3 +69,9 @@ export type Feed = {
   update_date: string;
   is_syndicated: string;
 }
+//  "media:thumbnail"?: {
+//   url?: string;
+//  },
+//  image?: {
+//  url?: string;
+//  },
