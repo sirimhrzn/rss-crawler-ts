@@ -1,0 +1,1264 @@
+{
+   "ARDB" : {
+      "feed_urls" : {
+         "busi" : "http://arthadabali.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "DIOL" : {
+      "feed_urls" : {
+         "oths" : "https://dainikonline.com/rss/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "Ekhb" : {
+      "feed_urls" : {
+         "busi" : "https://english.khabarhub.com/category/business/feed/",
+         "entm" : "https://english.khabarhub.com/category/entertainment/feed/",
+         "hlth" : "https://english.khabarhub.com/category/health/feed/",
+         "pltc" : "https://english.khabarhub.com/category/news-2/feed/",
+         "sprt" : "https://english.khabarhub.com/category/sports/feed",
+         "tops" : "https://english.khabarhub.com/feed/",
+         "wrld" : "https://english.khabarhub.com/category/international/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "FRDH" : {
+      "feed_urls" : {
+         "busi" : "https://farakdhar.com/hamro-rss/?cat=society",
+         "entm" : "https://farakdhar.com/hamro-rss/?cat=arts",
+         "hlth" : "https://farakdhar.com/hamro-rss/?cat=lifestyle-health",
+         "oths" : "https://farakdhar.com/hamro-rss/?cat=education",
+         "pltc" : "https://farakdhar.com/hamro-rss/?cat=politics",
+         "scte" : "https://farakdhar.com/hamro-rss/?cat=science-technology",
+         "sprt" : "https://farakdhar.com/hamro-rss/?cat=sports",
+         "tops" : "https://farakdhar.com/hamro-rss/?cat=opinion",
+         "wrld" : "https://farakdhar.com/hamro-rss/?cat=politics-world"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "GNSH" : {
+      "feed_urls" : {
+         "oths" : "https://gaunsahar.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "KBHB" : {
+      "feed_urls" : {
+         "busi" : "https://www.khabarhub.com/category/%E0%A4%86%E0%A4%B0%E0%A5%8D%E0%A4%A5%E0%A4%BF%E0%A4%95/feed/",
+         "entm" : "https://www.khabarhub.com/category/%E0%A4%AE%E0%A4%A8%E0%A5%8B%E0%A4%B0%E0%A4%9E%E0%A5%8D%E0%A4%9C%E0%A4%A8/feed/",
+         "hlth" : "https://www.khabarhub.com/category/%E0%A4%B8%E0%A5%8D%E0%A4%B5%E0%A4%BE%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%8D%E0%A4%AF/feed/?fbclid=IwAR3aHQy1ekL1hyB72GgxbtgmBERRlqUzo2-8E7uhIn8lZrf6PWyKkzWkwT4",
+         "oths" : "https://www.khabarhub.com/category/%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A4%AE-%E0%A4%B5%E0%A5%88%E0%A4%A6%E0%A5%87%E0%A4%B6%E0%A4%BF%E0%A4%95-%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A4%97%E0%A4%BE%E0%A4%B0/feed/",
+         "pltc" : "https://www.khabarhub.com/category/%E0%A4%B0%E0%A4%BE%E0%A4%9C%E0%A4%A8%E0%A5%80%E0%A4%A4%E0%A4%BF/feed/",
+         "sprt" : "https://www.khabarhub.com/category/%E0%A4%96%E0%A5%87%E0%A4%B2%E0%A4%95%E0%A5%81%E0%A4%A6/feed/",
+         "tops" : "https://khabarhub.com/category/%E0%A4%B5%E0%A4%BF%E0%A4%9A%E0%A4%BE%E0%A4%B0/feed/",
+         "wrld" : "https://www.khabarhub.com/category/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A4%B0%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%AF/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "LKPT" : {
+      "feed_urls" : {
+         "pltc" : "https://www.lokpath.com/category/politics/feed?fbclid=IwAR0NOPCfvQ9z-Vj4GOaXD0UFe1kekwI4-Qhj0ZCBGF9td6mpAcfJ047iB2w",
+         "scte" : "https://www.lokpath.com/category/tech/feed?fbclid=IwAR0NOPCfvQ9z-Vj4GOaXD0UFe1kekwI4-Qhj0ZCBGF9td6mpAcfJ047iB2w",
+         "sprt" : "https://www.lokpath.com/category/%E0%A4%96%E0%A5%87%E0%A4%B2%E0%A4%95%E0%A5%81%E0%A4%A6/feed?fbclid=IwAR0NOPCfvQ9z-Vj4GOaXD0UFe1kekwI4-Qhj0ZCBGF9td6mpAcfJ047iB2w",
+         "wrld" : "https://www.lokpath.com/category/international/feed?fbclid=IwAR0NOPCfvQ9z-Vj4GOaXD0UFe1kekwI4-Qhj0ZCBGF9td6mpAcfJ047iB2w"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "NPNW" : {
+      "feed_urls" : {
+         "tops" : "https://nepalnews.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "REWS" : {
+      "feed_urls" : {
+         "scte" : "https://reviews.com.np/rss"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "aaab" : {
+      "feed_urls" : {
+         "busi" : "https://aarthiknews.com/feeds/instant"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "abyn" : {
+      "feed_urls" : {
+         "busi" : "https://www.abhiyandaily.com/abhiyan-interviewrss",
+         "oths" : "https://www.abhiyandaily.com/abhiyan-lekkh-parisistarss",
+         "tops" : "https://www.abhiyandaily.com/abhiyan-mainnewsrss",
+         "wrld" : "https://www.abhiyandaily.com/abhiyan-internationalrss"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "anna" : {
+      "feed_urls" : {
+         "busi" : "https://annapurnapost.com/nprss/?cat=economy",
+         "oths" : "https://annapurnapost.com/nprss/?cat=interview",
+         "tops" : "https://annapurnapost.com/nprss/?cat=breaking"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "asan" : {
+      "feed_urls" : {
+         "busi" : "https://arthasanjal.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "aths" : {
+      "feed_urls" : {
+         "busi" : "https://arthasarokar.com/feeds/posts/default/-/SHARE%20MARKET",
+         "scte" : "https://arthasarokar.com/category/tech/feed",
+         "tops" : "https://arthasarokar.com/feeds/posts/default/-/NEPALI%20PATRO?alt=rss"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "bakh" : {
+      "feed_urls" : {
+         "tops" : "https://baahrakhari.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "bbcn" : {
+      "feed_urls" : {
+         "tops" : "https://information-syndication.api.bbc.com/articles?api_key=CK5MlckJGqxABig9LZ857iVPAmHf9vUQ&feed=nepali-all&mixins=body,body_images,clips&clip_format=embedded_player&page_view_tracking=image&sort=date_desc&accept_override=rss2"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "bizk" : {
+      "feed_urls" : {
+         "oths" : "https://www.bizkhabar.com/category/bichar/feed",
+         "tops" : "https://www.bizkhabar.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "bnmd" : {
+      "feed_urls" : {
+         "pltc" : "https://barnanmedia.com/feed/politics",
+         "tops" : "https://barnanmedia.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "bsbk" : {
+      "feed_urls" : {
+         "tops" : "https://bishwokhabar.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "busi" : {
+      "feed_urls" : {
+         "busi" : "https://biznessnews.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "cijn" : {
+      "feed_urls" : {
+         "oths" : "https://cijnepal.org.np/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "cink" : {
+      "feed_urls" : {
+         "tops" : "https://www.cinkhabar.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "cinl" : {
+      "feed_urls" : {
+         "tops" : "https://www.cinkhabar.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "cinn" : {
+      "feed_urls" : {
+         "tops" : "https://www.cinkhabar.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "clbt" : {
+      "feed_urls" : {
+         "entm" : "https://celebritynepal.com/feed",
+         "tops" : "https://celebritynepal.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "cork" : {
+      "feed_urls" : {
+         "busi" : "https://corporatekhabar.com/category/corporate/feed/",
+         "oths" : "https://corporatekhabar.com/category/video/feed/",
+         "pltc" : "https://corporatekhabar.com/category/politics/feed/",
+         "scte" : "https://corporatekhabar.com/category/technology/feed/",
+         "sprt" : "https://corporatekhabar.com/category/sports/feed/",
+         "tops" : "https://corporatekhabar.com/category/feature/feed/",
+         "wrld" : "https://corporatekhabar.com/category/world/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "dain" : {
+      "feed_urls" : {
+         "tops" : "http://www.dainiknepal.com/section/latest-news/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "dhkb" : {
+      "feed_urls" : {
+         "tops" : "https://dhangadhikhabar.com/feeds"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "dist" : {
+      "feed_urls" : {
+         "pltc" : "https://www.drishtinews.com/archives/category/election/feed",
+         "tops" : "https://www.drishtinews.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "dmli" : {
+      "feed_urls" : {
+         "tops" : "https://damaulikhabar.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "dstr" : {
+      "feed_urls" : {
+         "tops" : "https://deshantarnews.com/?feed=rss2"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "dstv" : {
+      "feed_urls" : {
+         "busi" : "https://www.drishyatv.com/feed/economy-bazzar",
+         "entm" : "https://www.drishyatv.com/feed/entertainment",
+         "hlth" : "https://www.drishyatv.com/feed/health",
+         "oths" : "https://www.drishyatv.com/feed/editorial-main",
+         "pltc" : "https://www.drishyatv.com/feed/politics",
+         "sprt" : "https://www.drishyatv.com/feed/sports",
+         "tops" : "https://www.drishyatv.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "ehml" : {
+      "feed_urls" : {
+         "tops" : "https://english.himalayatimes.com.np/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "ejty" : {
+      "feed_urls" : {
+         "tops" : "https://ejanakpurtoday.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "eprs" : {
+      "feed_urls" : {
+         "tops" : "https://epress.media/category/politics/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "evhd" : {
+      "feed_urls" : {
+         "busi" : "https://www.everestheadlines.com/nprss/business",
+         "entm" : "https://www.everestheadlines.com/nprss/entertainment",
+         "oths" : "https://www.everestheadlines.com/nprss/feature",
+         "pltc" : "https://www.everestheadlines.com/nprss/politics",
+         "sprt" : "https://www.everestheadlines.com/nprss/sports",
+         "tops" : "https://everestheadlines.com/nprss/news",
+         "wrld" : "https://www.everestheadlines.com/nprss/international"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "gool" : {
+      "feed_urls" : {
+         "oths" : "https://gorkhapatraonline.com/rss",
+         "pltc" : "https://gorkhapatraonline.com/rss/politics",
+         "tops" : "https://gorkhapatraonline.com/rss"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "hipr" : {
+      "feed_urls" : {
+         "busi" : "https://api.himalpress.com/api/rss/finance",
+         "entm" : "https://api.himalpress.com/api/rss/kala",
+         "hlth" : "https://api.himalpress.com/api/rss/health",
+         "oths" : "https://api.himalpress.com/api/rss/history-paper",
+         "pltc" : "https://api.himalpress.com/api/rss/political",
+         "sprt" : "https://api.himalpress.com/api/rss/sports",
+         "tops" : "https://api.himalpress.com/api/rss/thoughts-interview",
+         "wrld" : "https://api.himalpress.com/api/rss/world"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "hjrn" : {
+      "feed_urls" : {
+         "tops" : "https://hajurkonews.com/feed/rss.php"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "hmal" : {
+      "feed_urls" : {
+         "tops" : "https://www.himalsamachar.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "hmkr" : {
+      "feed_urls" : {
+         "busi" : "https://hamrakura.com/rss/ecomomic",
+         "entm" : "https://hamrakura.com/rss/entertainment",
+         "hlth" : "https://hamrakura.com/rss/health",
+         "oths" : "https://hamrakura.com/rss/prasasan",
+         "pltc" : "https://hamrakura.com/rss/current-affairs",
+         "sprt" : "https://hamrakura.com/rss/sports",
+         "tops" : "https://hamrakura.com/rss/parliament",
+         "wrld" : "https://hamrakura.com/rss/world-news"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "hmlk" : {
+      "feed_urls" : {
+         "tops" : "https://www.himalkhabar.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "hmlt" : {
+      "feed_urls" : {
+         "tops" : "https://ehimalayatimes.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "ictf" : {
+      "feed_urls" : {
+         "scte" : "https://np.ictframe.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "imkh" : {
+      "feed_urls" : {
+         "oths" : "https://www.imagekhabar.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "jant" : {
+      "feed_urls" : {
+         "busi" : "https://janatatimes.com/archives/category/economy/feed",
+         "entm" : "https://janatatimes.com/archives/category/entertainment/feed",
+         "hlth" : "https://janatatimes.com/archives/category/education/feed",
+         "oths" : "https://janatatimes.com/archives/category/pradesh/feed",
+         "pltc" : "https://janatatimes.com/archives/category/main-news/feed",
+         "scte" : "https://janatatimes.com/archives/category/Technology/feed",
+         "wrld" : "https://janatatimes.com/archives/category/world/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "jayp" : {
+      "feed_urls" : {
+         "tops" : "https://www.thejpdaily.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "klkn" : {
+      "feed_urls" : {
+         "tops" : "https://www.kalikanews.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "kndr" : {
+      "feed_urls" : {
+         "blog" : "https://kendrabindu.com/feed/culture-heritage",
+         "busi" : "https://kendrabindu.com/feed/economy",
+         "entm" : "https://kendrabindu.com/feed/arts",
+         "hlth" : "https://kendrabindu.com/feed/health",
+         "oths" : "https://kendrabindu.com/feed/life-style",
+         "pltc" : "https://kendrabindu.com/feed/politics",
+         "scte" : "https://kendrabindu.com/feed/technology",
+         "tops" : "https://kendrabindu.com/feed/khoj",
+         "wrld" : "https://kendrabindu.com/feed/world"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "kobt" : {
+      "feed_urls" : {
+         "entm" : "https://www.koribati.com/feed",
+         "tops" : "https://www.koribati.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "kpti" : {
+      "feed_urls" : {
+         "busi" : "https://www.kathmandupati.com/news/category/economy/feed",
+         "entm" : "https://www.kathmandupati.com/news/category/arts-entertainment/feed/",
+         "oths" : "https://www.kathmandupati.com/news/category/security/feed/",
+         "pltc" : "https://www.kathmandupati.com/news/category/politics/feed",
+         "sprt" : "https://www.kathmandupati.com/news/category/sports/feed/",
+         "tops" : "https://www.kathmandupati.com/news/category/samachar/feed",
+         "wrld" : "https://www.kathmandupati.com/news/category/international/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "ktmp" : {
+      "feed_urls" : {
+         "tops" : "https://english.kathmandupati.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "lbns" : {
+      "feed_urls" : {
+         "tops" : "https://www.lumbinisanchar.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "liit" : {
+      "feed_urls" : {
+         "scte" : "https://ictsamachar.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "livm" : {
+      "feed_urls" : {
+         "tops" : "https://livemandu.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "loka" : {
+      "feed_urls" : {
+         "busi" : "https://lokaantar.com/nprss/?cat=economy",
+         "entm" : "https://lokaantar.com/nprss/?cat=entertainment",
+         "hlth" : "https://lokaantar.com/nprss/?cat=health",
+         "pltc" : "https://lokaantar.com/nprss/?cat=politics",
+         "scte" : "https://lokaantar.com/nprss/?cat=information-technology",
+         "sprt" : "https://lokaantar.com/nprss/?cat=sports",
+         "tops" : "https://lokaantar.com/nprss/?cat=main-news",
+         "wrld" : "https://lokaantar.com/nprss/?cat=international"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "mdpk" : {
+      "feed_urls" : {
+         "tops" : "https://gorkhapatraonline.com/rss/publication/madhupark"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "meau" : {
+      "feed_urls" : {
+         "busi" : "https://meroauto.com/feeds"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "mefi" : {
+      "feed_urls" : {
+         "entm" : "https://www.merofilm.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "mkkb" : {
+      "feed_urls" : {
+         "busi" : "https://www.makalukhabar.com/category/economics-commercial/feed",
+         "entm" : "https://www.makalukhabar.com/category/entertainment/feed",
+         "hlth" : "https://www.makalukhabar.com/category/health/feed",
+         "oths" : "https://www.makalukhabar.com/category/society/feed",
+         "pltc" : "https://www.makalukhabar.com/category/country/feed",
+         "sprt" : "https://www.makalukhabar.com/category/sports/feed",
+         "tops" : "https://www.makalukhabar.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "mlst" : {
+      "feed_urls" : {
+         "oths" : "https://www.merolifestyle.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "mnes" : {
+      "feed_urls" : {
+         "busi" : "https://www.meronews.com/category/politics/feed",
+         "entm" : "https://www.meronews.com/category/entertainment/feed",
+         "oths" : "https://www.meronews.com/category/thoughts/feed",
+         "pltc" : "https://www.meronews.com/category/politics/feed",
+         "sprt" : "https://www.meronews.com/category/sports/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "mtro" : {
+      "feed_urls" : {
+         "tops" : "https://metronews.kathmandu.gov.np/feed/rss"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "muna" : {
+      "feed_urls" : {
+         "tops" : "https://gorkhapatraonline.com/rss/publication/muna"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "nely" : {
+      "feed_urls" : {
+         "oths" : "https://neplays.com/rss.xml",
+         "sprt" : "https://neplays.com/rss.xml"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "nepa" : {
+      "feed_urls" : {
+         "blog" : "https://nepalipatro.com.np/blog/feed/",
+         "tops" : "https://nepalipatro.com.np/rss"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "nepb" : {
+      "feed_urls" : {
+         "oths" : "https://nepalbahas.com/nprss/?cat=breaking",
+         "pltc" : "https://nepalbahas.com/nprss/?cat=politics",
+         "tops" : "https://nepalbahas.com/nprss/?cat=special"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "neps" : {
+      "feed_urls" : {
+         "tops" : "https://www.nepsebajar.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "nepv" : {
+      "feed_urls" : {
+         "busi" : "https://www.nepalviews.com/category/economic/feed/",
+         "entm" : "https://www.nepalviews.com/category/entertainment/feed/",
+         "hlth" : "https://www.nepalviews.com/category/health/feed/",
+         "oths" : "https://www.nepalviews.com/category/opinion/feed/",
+         "pltc" : "https://www.nepalviews.com/category/politics/feed/",
+         "sprt" : "https://www.nepalviews.com/category/sports/feed/",
+         "tops" : "https://www.nepalviews.com/category/desh/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "nesa" : {
+      "feed_urls" : {
+         "tops" : "https://nepalsamaya.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "ngri" : {
+      "feed_urls" : {
+         "busi" : "https://newsgriha.com/feed/economy",
+         "hlth" : "https://newsgriha.com/feed/health-lifestyle",
+         "pltc" : "https://newsgriha.com/feed/politics",
+         "scte" : "https://newsgriha.com/feed/technology",
+         "sprt" : "https://newsgriha.com/feed/sports",
+         "tops" : "https://newsgriha.com/feed",
+         "wrld" : "https://newsgriha.com/feed/international"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "ngrk" : {
+      "feed_urls" : {
+         "busi" : "https://nagariknews.nagariknetwork.com/feed/economy",
+         "hlth" : "https://nagariknews.nagariknetwork.com/feed/health",
+         "pltc" : "https://nagariknews.nagariknetwork.com/feed/politics",
+         "scte" : "https://nagariknews.nagariknetwork.com/feed/technology",
+         "sprt" : "https://nagariknews.nagariknetwork.com/feed/sports",
+         "tops" : "https://nagariknews.nagariknetwork.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "nliv" : {
+      "feed_urls" : {
+         "tops" : "https://nepallive.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "npbj" : {
+      "feed_urls" : {
+         "tops" : "https://nepsebajar.com.np/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "nplh" : {
+      "feed_urls" : {
+         "oths" : "https://nepaliheadline.com/category/opinion/feed",
+         "sprt" : "https://nepaliheadline.com/category/sports/feed/",
+         "tops" : "https://nepaliheadline.com/category/national/feed",
+         "wrld" : "https://nepaliheadline.com/category/world/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "nplk" : {
+      "feed_urls" : {
+         "tops" : "http://nepalclicks.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "npln" : {
+      "feed_urls" : {
+         "tops" : "http://nepalinetwork.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "npol" : {
+      "feed_urls" : {
+         "blog" : "https://newspolar.com/archives/category/svaasthy-jiivn-shailii/feed",
+         "busi" : "https://newspolar.com/archives/category/baink-vitt",
+         "entm" : "https://newspolar.com/archives/category/mnornyjn/feed",
+         "pltc" : "https://newspolar.com/archives/category/raajniiti/feed",
+         "sprt" : "https://newspolar.com/archives/category/khel/feed",
+         "wrld" : "https://newspolar.com/archives/category/prvaas/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "npst" : {
+      "feed_urls" : {
+         "busi" : "https://nepalstatus.com/category-feed/economics",
+         "entm" : "https://nepalstatus.com/category-feed/literature",
+         "hlth" : "https://nepalstatus.com/category-feed/healths",
+         "oths" : "https://nepalstatus.com/category-feed/amazing-world",
+         "pltc" : "https://nepalstatus.com/category-feed/politics",
+         "scte" : "https://nepalstatus.com/category-feed/information-technology",
+         "sprt" : "https://nepalstatus.com/category-feed/sports",
+         "tops" : "https://nepalstatus.com/category-feed/news",
+         "wrld" : "https://nepalstatus.com/category-feed/international"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "nshn" : {
+      "feed_urls" : {
+         "busi" : "https://newshousenepal.com/feed/aratha",
+         "entm" : "https://newshousenepal.com/feed/manoranjan",
+         "oths" : "https://newshousenepal.com/feed/vashava",
+         "pltc" : "https://newshousenepal.com/feed/rajanata",
+         "tops" : "https://newshousenepal.com/feed/breaking"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "odap" : {
+      "feed_urls" : {
+         "tops" : "https://www.odapalika.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "oken" : {
+      "feed_urls" : {
+         "blog" : "https://english.onlinekhabar.com/category/travel/feed",
+         "busi" : "https://english.onlinekhabar.com/category/business/feed",
+         "entm" : "https://english.onlinekhabar.com/category/lifestyle/feed",
+         "oths" : "https://english.onlinekhabar.com/feed",
+         "pltc" : "https://english.onlinekhabar.com/category/political/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "onkh" : {
+      "feed_urls" : {
+         "busi" : "https://www.onlinekhabar.com/content/business/feed",
+         "oths" : "https://www.onlinekhabar.com/content/home-main-news/feed",
+         "sprt" : "https://www.onlinekhabar.com/content/sports/feed",
+         "tops" : "https://www.onlinekhabar.com/content/news-special/feed",
+         "wrld" : "https://www.onlinekhabar.com/content/international/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "onlp" : {
+      "feed_urls" : {
+         "oths" : "https://www.onlinepana.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "onsb" : {
+      "feed_urls" : {
+         "tops" : "https://onlinesambad.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "osnp" : {
+      "feed_urls" : {
+         "busi" : "https://www.osnepal.com/category/business-sense/feed/",
+         "entm" : "https://www.osnepal.com/category/entertainment/feed/",
+         "hlth" : "https://www.osnepal.com/category/health/feed/",
+         "oths" : "https://www.osnepal.com/feed",
+         "scte" : "https://www.osnepal.com/category/science-technology/feed/",
+         "sprt" : "https://www.osnepal.com/category/sports/feed/",
+         "wrld" : "https://www.osnepal.com/category/international/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "pcmp" : {
+      "feed_urls" : {
+         "tops" : "https://paschimpress.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "pdnp" : {
+      "feed_urls" : {
+         "tops" : "https://www.darpanpost.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "pfds" : {
+      "feed_urls" : {
+         "busi" : "https://www.pardafas.com/category/pardafas-bishesh/feed/",
+         "oths" : "https://www.pardafas.com/feed/",
+         "pltc" : "https://www.pardafas.com/category/politics/feed/",
+         "tops" : "https://www.pardafas.com/category/pardafas-bishesh/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "phcn" : {
+      "feed_urls" : {
+         "tops" : "https://pahichan.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "pras" : {
+      "feed_urls" : {
+         "entm" : "https://www.prasashan.com/category/kala-sahitya/feed/",
+         "oths" : "https://www.prasashan.com/category/mukhya-khabar/feed/",
+         "pltc" : "https://www.prasashan.com/category/rajniti/feed/",
+         "tops" : "https://www.prasashan.com/category/prashasan/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "prdf" : {
+      "feed_urls" : {
+         "busi" : "https://english.pardafas.com/category/business/feed/",
+         "pltc" : "https://english.pardafas.com/category/politics/feed/",
+         "tops" : "https://english.pardafas.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "ptdy" : {
+      "feed_urls" : {
+         "tops" : "https://paschimtoday.com/feed.php"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "purb" : {
+      "feed_urls" : {
+         "tops" : "https://purbelinews.com/nprss"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "rapt" : {
+      "feed_urls" : {
+         "busi" : "https://www.ratopati.com/nprss/economy",
+         "entm" : "https://www.ratopati.com/nprss/entertainment",
+         "oths" : "https://www.ratopati.com/nprss/opinion"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "rate" : {
+      "feed_urls" : {
+         "oths" : "https://english.ratopati.com/rss/",
+         "tops" : "https://english.ratopati.com/rss/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "rdpl" : {
+      "feed_urls" : {
+         "tops" : "https://onlineradionepal.gov.np/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "repu" : {
+      "feed_urls" : {
+         "busi" : "http://www.myrepublica.com/feeds/category/economy",
+         "entm" : "https://myrepublica.nagariknetwork.com/feeds/category/life-style",
+         "pltc" : "https://myrepublica.nagariknetwork.com/feeds/category/politics",
+         "scte" : "http://www.myrepublica.com/feeds/category/technology",
+         "sprt" : "http://www.myrepublica.com/feeds/category/sports",
+         "wrld" : "http://www.myrepublica.com/feeds/category/world"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "rkbr" : {
+      "feed_urls" : {
+         "tops" : "https://racekhabar.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "rtmr" : {
+      "feed_urls" : {
+         "tops" : "https://www.radiotamor.com/rss.php"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "shpt" : {
+      "feed_urls" : {
+         "ltre" : "https://sahityapost.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "smyp" : {
+      "feed_urls" : {
+         "busi" : "https://www.samayapost.com/category/business/feed",
+         "entm" : "https://www.samayapost.com/category/entertainment/feed",
+         "oths" : "https://www.samayapost.com/category/others/feed",
+         "pltc" : "https://www.samayapost.com/category/politics/feed",
+         "scte" : "https://www.samayapost.com/category/technology/feed",
+         "tops" : "https://www.samayapost.com/category/top-stories/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "snbr" : {
+      "feed_urls" : {
+         "entm" : "https://singhadurbarnews.com/nprss?ncategory=entertainment",
+         "hlth" : "https://singhadurbarnews.com/nprss?ncategory=health",
+         "pltc" : "https://singhadurbarnews.com/nprss?ncategory=politics",
+         "scte" : "https://singhadurbarnews.com/nprss?ncategory=science-technology",
+         "tops" : "https://singhadurbarnews.com/nprss?ncategory=news"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "srhi" : {
+      "feed_urls" : {
+         "tops" : "https://radiosarathi.com.np/feed.php"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "stpt" : {
+      "feed_urls" : {
+         "pltc" : "http://setopati.net/feed/",
+         "tops" : "http://setopati.net/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "sutr" : {
+      "feed_urls" : {
+         "entm" : "https://www.sutranews.com/feed/",
+         "oths" : "https://www.sutranews.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "swkh" : {
+      "feed_urls" : {
+         "hlth" : "https://swasthyakhabar.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "swpt" : {
+      "feed_urls" : {
+         "tops" : "https://swadeshpost.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "tckb" : {
+      "feed_urls" : {
+         "scte" : "https://technologykhabar.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "tcpn" : {
+      "feed_urls" : {
+         "scte" : "https://www.techpana.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "tcst" : {
+      "feed_urls" : {
+         "scte" : "http://techsathi.com/feed"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "teck" : {
+      "feed_urls" : {
+         "scte" : "https://techkagaj.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "tlkh" : {
+      "feed_urls" : {
+         "scte" : "https://techlekh.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "tltd" : {
+      "feed_urls" : {
+         "tops" : "https://www.nepallivetoday.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "tsar" : {
+      "feed_urls" : {
+         "busi" : "https://taksarnews.com/feed/",
+         "tops" : "https://taksarnews.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "900",
+         "slug" : "MID"
+      }
+   },
+   "tsps" : {
+      "feed_urls" : {
+         "scte" : "https://techspecsnepal.com/feed",
+         "tops" : "https://techspecsnepal.com/category/updates/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "unn" : {
+      "feed_urls" : {
+         "tops" : "https://ujyaaloonline.com/rss/"
+      },
+      "tier_config" : {
+         "interval_value" : "180",
+         "slug" : "HIGH"
+      }
+   },
+   "vosn" : {
+      "feed_urls" : {
+         "tops" : "https://visionsamachar.com/feed/"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   },
+   "yuwa" : {
+      "feed_urls" : {
+         "tops" : "https://gorkhapatraonline.com/rss/publication/yuba-manch"
+      },
+      "tier_config" : {
+         "interval_value" : "3600",
+         "slug" : "LOW"
+      }
+   }
+}

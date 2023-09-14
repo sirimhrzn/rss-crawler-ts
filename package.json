@@ -1,0 +1,22 @@
+{
+  "name": "pollerv2",
+  "version": "1.0.50",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bun run --watch src/index.ts"
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "cheerio": "^1.0.0-rc.12",
+    "date-fns": "^2.30.0",
+    "elysia": "latest",
+    "fast-xml-parser": "^4.2.7",
+    "jsdom": "^22.1.0",
+    "md5": "^2.3.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "module": "src/index.js"
+}
