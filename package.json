@@ -6,13 +6,23 @@
     "dev": "bun run --watch src/index.ts"
   },
   "dependencies": {
+    "@types/node": "^20.6.0",
     "axios": "^1.5.0",
+    "cassandra-driver": "^4.7.0",
     "cheerio": "^1.0.0-rc.12",
     "date-fns": "^2.30.0",
     "elysia": "latest",
     "fast-xml-parser": "^4.2.7",
     "jsdom": "^22.1.0",
+    "mariadb": "^3.2.1",
     "md5": "^2.3.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.6.1",
+    "prisma": "^5.3.0",
+    "scylladb-driver": "^0.0.1-dev",
+    "sequelize": "^6.33.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2",
     "uuid": "^9.0.1"
   },
   "devDependencies": {
